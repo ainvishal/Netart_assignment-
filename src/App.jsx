@@ -14,7 +14,7 @@ function App() {
       <div className='body'>
           <Heading/>
           <div className='main'>
-            <Image imgclass={"awardimg"} imgsrc={"../src/assets/1.png"} imgalt={"award"}/>
+            <Image imgclass={"awardimg"} imgsrc={"/1.png"} imgalt={"award"}/>
             <Section />
           </div>
           <Summary />

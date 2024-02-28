@@ -5,7 +5,7 @@ export function Heading() {
     return(
         <>
             <div>
-                <Image divclass={"logodiv"} imgclass={"logoImage"} imgsrc={"../src/assets/logo.png"} imgalt={"logo"} />
+                <Image divclass={"logodiv"} imgclass={"logoImage"} imgsrc={"/logo.png"} imgalt={"logo"} />
             </div>
         </>
     );
